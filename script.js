@@ -132,12 +132,12 @@ document.addEventListener('DOMContentLoaded', function() {
                     <h1>O mnie</h1>
                     <div class="about-container">
                         <div class="about-image">
-                            <div class="placeholder-image"></div>
+                                <img src="informatik.png" alt="Informatyk" class="placeholder-image">
                         </div>
                         <div class="about-text">
                             <h2>Kim jestem?</h2>
-                            <p>Jestem Studentem Akademi Górniczo-Hutniczej na wydziale Informatyki, aktywnym działaczem w kołach naukowych 
-                                <a href="https://www.eko-energia.agh.edu.pl/">Eko-Energia</a>, 
+                            <p>Jestem Studentem Akademi Górniczo-Hutniczej na wydziale Informatyki, aktywnym działaczem w kołach naukowych:</p>
+                            <p>   <a href="https://www.eko-energia.agh.edu.pl/">Eko-Energia</a>, 
                                 <a href="https://knbit.edu.pl/">Bit</a> sekcja AI.</p>
 
                             
